@@ -10,7 +10,8 @@
 7. [Análise Comparativa](#análise-comparativa)
 8. [Conclusões](#conclusões)
 9. [Referências](#referências)
-
+dsfsdfsdgfsdfsdgfdsf
+fsdfsdgtsdfgsfcvsdfsdfcsdfc
 ## Introdução
 
 Este documento apresenta uma análise comparativa detalhada entre três sistemas de arquivos amplamente utilizados: EXT4, FAT32 e NTFS. O estudo aborda características técnicas, desempenho, compatibilidade e métodos de recuperação de dados.
